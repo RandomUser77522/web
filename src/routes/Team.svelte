@@ -21,4 +21,9 @@
 	.grid-element{
 		margin: 1rem;
 	}
+	@media screen and (max-width: 720px){
+		.grid-container{
+			display: block;
+		}
+	}
 </style>

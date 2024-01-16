@@ -8,6 +8,8 @@
 	import Promo from "./Promo.svelte";
 </script>
 
+<img src="images/building.jpg" alt="Asok Montri Dental Clinic Building Picture"/>
+
 <div class="block" id="welcome">
 	<Welcome/>
 </div>
@@ -29,12 +31,17 @@
 </div>
 
 <style>
+	img{
+		width: 100%;
+		height: 600px;
+		object-fit: cover;
+	}
 	.block{
 		padding: 5rem 15%;
 	}
-	@media (max-width: 1000px){
+	@media (max-width: 720px){
 		.block{
-			padding: 2rem 4rem;
+			padding: 2rem 2rem;
 		}
 	}
 	#services{

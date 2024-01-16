@@ -126,7 +126,7 @@
 		padding-bottom: 100%;
 		display: none;
 	}
-	@media screen and (max-width: 1000px){
+	@media screen and (max-width: 1080px){
 		.nav-bar{
 			display: none;
 		}
@@ -147,8 +147,14 @@
 		}
 	}
 
+	@media screen and (max-width: 720px){
+		#menu-bar{
+			margin: 1rem 2rem;
+		}
+	}
+
 	nav a{
-		font-size: 1.5rem;
+		font-size: 1.25rem;
 	}
 	
 	aside {
