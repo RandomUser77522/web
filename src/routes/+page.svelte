@@ -18,11 +18,11 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		to your new<br />TEST app
 	</h1>
 
 	<h2>
-		try editing <strong>src/routes/+page.svelte</strong>
+		try fucking with <strong>src/routes/+page.svelte</strong>
 	</h2>
 
 	<Counter />
