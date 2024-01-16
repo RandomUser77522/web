@@ -1,59 +1,46 @@
 <script>
-	import Counter from './Counter.svelte';
-	import welcome from '$lib/images/svelte-welcome.webp';
-	import welcome_fallback from '$lib/images/svelte-welcome.png';
+	import { _ } from "svelte-i18n";
+	import { locale } from "svelte-i18n";
+	import Welcome from "./Welcome.svelte";
+	import Services from "./Services.svelte";
+	import Team from "./Team.svelte";
+	import Technology from "./Technology.svelte";
+	import Promo from "./Promo.svelte";
 </script>
 
-<svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
-</svelte:head>
+<div class="block" id="welcome">
+	<Welcome/>
+</div>
 
-<section>
-	<h1>
-		<span class="welcome">
-			<picture>
-				<source srcset={welcome} type="image/webp" />
-				<img src={welcome_fallback} alt="Welcome" />
-			</picture>
-		</span>
+<div class="block" id="services">
+	<Services/>
+</div>
 
-		to your new<br />TEST app
-	</h1>
+<div class="block" id="team">
+	<Team/>
+</div>
 
-	<h2>
-		try fucking with <strong>src/routes/+page.svelte</strong>
-	</h2>
+<div class="block" id="technology">
+	<Technology/>
+</div>
 
-	<Counter />
-</section>
+<div class="block" id="promo">
+	<Promo/>
+</div>
 
 <style>
-	section {
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		align-items: center;
-		flex: 0.6;
+	.block{
+		padding: 5rem 15%;
 	}
-
-	h1 {
-		width: 100%;
+	@media (max-width: 1000px){
+		.block{
+			padding: 2rem 4rem;
+		}
 	}
-
-	.welcome {
-		display: block;
-		position: relative;
-		width: 100%;
-		height: 0;
-		padding: 0 0 calc(100% * 495 / 2048) 0;
+	#services{
+		background-color: #FFDDDD;
 	}
-
-	.welcome img {
-		position: absolute;
-		width: 100%;
-		height: 100%;
-		top: 0;
-		display: block;
+	#technology{
+		background-color: #FFDDDD;
 	}
 </style>

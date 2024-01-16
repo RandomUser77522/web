@@ -1,0 +1,56 @@
+{
+	"name":"阿速牙科诊所",
+	"navbar":[
+		{
+			"href": "welcome",
+			"name": "主页"
+		},
+		{
+			"href": "services",
+			"name": "服务"
+		},
+		{
+			"href": "team",
+			"name": "牙医"
+		},
+		{
+			"href": "technology",
+			"name": "技术"
+		},
+		{
+			"href": "promotion",
+			"name": "折扣"
+		},
+		{
+			"href": "contact",
+			"name": "联系"
+		}
+	],
+	"welcome":{
+		"title": "欢迎来到阿速牙科诊所",
+		"text": "TO BE ADDED"
+	},
+	"services":{
+		"title": "服务",
+		"text": "TO BE ADDED"
+	},
+	"team":{
+		"title": "牙医",
+		"text": "TO BE ADDED"
+	},
+	"technology":{
+		"title": "技术",
+		"text": "TO BE ADDED"
+	},
+	"promo":{
+		"title": "折扣",
+		"text": "TO BE ADDED"
+	},
+	"contact":{
+		"title": "联系",
+		"address": ["38/8 阿速路","宛他那区","曼谷 10110"],
+		"email": "电邮",
+		"phone": "电话",
+		"line": "LINE ID"
+	}
+}
