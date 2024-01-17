@@ -89,27 +89,43 @@
 		"text": [	
 					{
 						"name": "Dr. Song Auttawetcakul",
-						"desc": "Cert. (Prosthodontics) MS. (U Maryland) Diplomate American Board of Prosthodontics"
+						"desc": [
+							"Cert. (Prosthodontics) MS. (U Maryland)",
+							"Diplomate, American Board of Prosthodontics"
+						]
 					},
 					{
 						"name": "Dr. Sunee Panyayutthakarn",
-						"desc": "Cert. (Surgery) Cert. (Implant Dentistry) UCLA"
+						"desc": [
+							"Cert. (Surgery)",
+							"Cert. (Implant Dentistry) UCLA"
+						]
 					},
 					{
 						"name": "Dr. Supawat Puttipart",
-						"desc": "Master of Science (Orthodontics)"
+						"desc": [
+							"Master of Science (Orthodontics)"
+						]
 					},
 					{
 						"name": "Dr. Porntip Veeriyapak",
-						"desc": "DDS. MS. Master degree in Periodontics Chulalongkorn University Post Graduated non-degree in Periodontics. University of Michigan, Ann Arbor"
+						"desc": [
+							"DDS. MS. Master degree in Periodontics",
+							"Chulalongkorn University Post Graduated non-degree in Periodontics.",
+							"University of Michigan, Ann Arbor"
+						]
 					},
 					{
 						"name": "Dr. Patsri Assadonmingmit",
-						"desc": "Certificate in endodontics"
+						"desc": [
+							"Certificate in endodontics"
+						]
 					},
 					{
 						"name": "Dr. Prapon Nipattasat",
-						"desc": "MSC in Prosthetic Dentistry University of London UK"
+						"desc": [
+							"MSC in Prosthetic Dentistry University of London UK"
+						]
 					}
 				]
 	},

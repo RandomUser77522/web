@@ -11,7 +11,7 @@
 			</iframe>
 		</div>
 		<div id="map-small">
-			<iframe width="330" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" 
+			<iframe width="300" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" 
 			src="https://maps.google.com/maps?width=720&amp;height=400&amp;hl=en&amp;q=asok%20montri%20dental%20clinic%20Bangkok&amp;t=&amp;z=16&amp;ie=UTF8&amp;iwloc=B&amp;output=embed">
 			</iframe>
 		</div>
@@ -54,6 +54,9 @@
 		}
 	}
 	@media screen and (max-width: 720px){
+		html{
+			padding: 2rem 2rem;
+		}
 		.flex-container{
 			display: block;
 		}

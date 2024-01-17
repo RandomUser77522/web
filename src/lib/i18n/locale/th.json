@@ -89,37 +89,59 @@
 		"text": [	
 					{
 						"name": "ทพ. สงค์ อรรถเวชกุล",
-						"desc": "ประกาศณียบัตรทันตกรรมประดิษฐ์ วุฒิบัตรทันตกรรมประดิษฐ์สหรัฐอเมริกา Cert. (Prosthodontics) MS. (U Maryland) Diplomate American Board of Prosthodontics"
+						"desc": [
+							"ประกาศนียบัตรทันตกรรมประดิษฐ์",
+							"วุฒิบัตรทันตกรรมประดิษฐ์สหรัฐอเมริกา",
+							"Cert. (Prosthodontics) MS. (U Maryland)",
+							"Diplomate, American Board of Prosthodontics"
+						]
 					},
 					{
 						"name": "ทพญ. สุนีย์ ปัญญายุทธการ",
-						"desc": "ประกาศณียบัตรศัลกรรมช่องปาก ประกาศณียบัตรรากเทียม Cert. (Surgery) Cert. (Implant Dentistry) UCLA"
+						"desc": [
+							"ประกาศณียบัตรศัลกรรมช่องปาก",
+							"ประกาศณียบัตรรากเทียม",
+							"Cert. (Surgery)",
+							"Cert. (Implant Dentistry) UCLA"
+						]
 					},
 					{
 						"name": "ทพ. ศุภวัฒน์ พุฒิภาษ",
-						"desc": "Master of Science (Orthodontics)"
+						"desc": [
+							"Master of Science (Orthodontics)"
+						]
 					},
 					{
 						"name": "ทพญ. พรทิพย์ วิริยะภาค",
-						"desc": "ทันตกรรมปริทันต์ สหรัฐอเมริกา DDS. MS. Master degree in Periodontics Chulalongkorn University Post Graduated non-degree in Periodontics. University of Michigan, Ann Arbor"
+						"desc": [
+							"ทันตกรรมปริทันต์ สหรัฐอเมริกา",
+							"DDS. MS. Master degree in Periodontics",
+							"Chulalongkorn University Post Graduated non-degree in Periodontics.",
+							"University of Michigan, Ann Arbor"
+						]
 					},
 					{
 						"name": "ทพญ. ภัทร์ศรี  อัสดรมิ่งมิตร",
-						"desc": "Certificate in endodontics"
+						"desc": [
+							"Certificate in endodontics"
+						]
 					},
 					{
 						"name": "ทพ. ประพนธ์ นิพัทธสัจน์",
-						"desc": "ทันตกรรมประดิษฐ์ สหราชอาณาจักร MSC in Prosthetic Dentistry University of London UK"
+						"desc": [
+							"ทันตกรรมประดิษฐ์ สหราชอาณาจักร",
+							"MSC in Prosthetic Dentistry University of London UK"
+						]
 					}
 				]
 	},
 	"technology":{
-		"title": "Our technology",
+		"title": "เทคโนโลยี",
 		"text": [
-					"CT scan",
-					"Digital X-ray",
-					"Dental oral scan by iTero",
-					"In-house labratory"
+					"เครื่อง CT scan",
+					"เครื่อง Digital X-ray",
+					"เครื่องแสกนภายในช่องปาก iTero",
+					"แลบทันตกรรมภายในคลินิก"
 				]
 	},
 	"promo":{
@@ -136,7 +158,7 @@
 		"line": "ID ไลน์"
 	},
 	"general-dent":{
-		"title": "General Dentistry",
+		"title": "ทันตกรรมทั่วไป",
 		"text":[
 			"Cleaning, scaling, deep cleaning",
 			"Filling",
@@ -145,7 +167,7 @@
 		]
 	},
 	"esthetics":{
-		"title": "Esthetics",
+		"title": "ทันตกรรมเพื่อความสวยงาม",
 		"text":[
 			"Teeth whitening",
 			"Porcelain veneers",
@@ -162,7 +184,7 @@
 		]
 	},
 	"invisalign":{
-		"title": "Invisalign",
+		"title": "จัดฟันใส Invisalign",
 		"text":[
 			"Child, teen adult",
 			"Invisalign Go",
@@ -172,8 +194,8 @@
 		]
 	},
 	"implants":{
-		"title": "Dental Implants",
-		"subtitle": "10,000+ implant procedure, 35 years of experience",
+		"title": "รากฟันเทียม",
+		"subtitle": "10,000+ implant procedure, ประสบการณ์ 35 ปี",
 		"text": [
 			"Immediate implants",
 			"Immediate implants with restoration (one visit)",
@@ -185,7 +207,7 @@
 		]
 	},
 	"surgery":{
-		"title": "Oral Surgery",
+		"title": "ศัลยกรรมภายในช่องปาก",
 		"text": [
 			"Sinus graft (100% success rate over 1,000 cases)",
 			"Simultaneous implant and sinus graft",
@@ -198,11 +220,11 @@
 		]
 	},
 	"rct":{
-		"title": "Root Canal Treatement",
+		"title": "รักษารากฟัน",
 		"text": ["Root canal treatment"]
 	},
 	"periodontal":{
-		"title": "Periodontal Treatment",
+		"title": "รักษาโรคเหงือก",
 		"text": [
 			"Deep cleaning, root planing",
 			"Esthetic gum surgery",
@@ -212,18 +234,18 @@
 		]
 	},
 	"orthodontics":{
-		"title": "Orthodontics",
+		"title": "จัดฟัน",
 		"text": ["Orthodontics"]
 	},
 	"anxiety-phobia":{
-		"title": "Dentistry Anxiety and Phobia",
+		"title": "ทันตกรรมแบบดมยาสลบ",
 		"text": [
 			"General anesthesia and sedation",
 			"Oral sedation and general anesthesia working with anesthesiologist team"
 		]
 	},
 	"tmj":{
-		"title": "TMJ and Occlusion Treatment",
+		"title": "โรคข้อต่อขากรรไกรเสื่อม",
 		"text": [
 			"Tenderness at the joint",
 			"Limited movement of the jaw",
