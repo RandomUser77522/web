@@ -8,7 +8,7 @@
 {/each}
 
 <div class="flex-container">
-	<img src="images/pano1.jpg" alt="Clinic Picture 1"/>
+	<img src="images/reception.jpg" alt="Clinic Picture 1"/>
 	<img src="images/pano2.jpg" alt="Clinic Picture 2"/>
 </div>
 

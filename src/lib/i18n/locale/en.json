@@ -164,8 +164,8 @@
 		"title": "Esthetics",
 		"text":[
 			"Teeth whitening",
-			"Porcelain veneers",
-			"Porcelain crowns",
+			"Porcelain veneers (e.max)",
+			"Porcelain crowns (zirconium)",
 			"Porcelain inlays and onlays"
 		]
 	},
@@ -174,7 +174,9 @@
 		"text":[
 			"Complete dentures with or without implants",
 			"Full mouth restoration",
-			"Restore vertical dimension"
+			"Restore vertical dimension",
+			"Ceramic zirconium crowns",
+			"e.max veneers and crowns"
 		]
 	},
 	"invisalign":{
