@@ -90,7 +90,8 @@
 					{
 						"name": "Dr. Song Auttawetcakul",
 						"desc": [
-							"Cert. (Prosthodontics) MS. (U Maryland)",
+							"Cert. (Prosthodontics)",
+							"MS. (U Maryland, USA)",
 							"Diplomate, American Board of Prosthodontics"
 						]
 					},
@@ -98,7 +99,7 @@
 						"name": "Dr. Sunee Panyayutthakarn",
 						"desc": [
 							"Cert. (Surgery)",
-							"Cert. (Implant Dentistry) UCLA"
+							"Cert. (Implant Dentistry) UCLA, USA"
 						]
 					},
 					{
@@ -148,7 +149,8 @@
 		"title": "Contact us",
 		"address": ["38/8 Asoke Montri Road","Klong Toey Nuea, Watthana", "Bangkok, 10110"],
 		"email": "Email",
-		"phone": "Phone",
+		"tel": "Tel",
+		"mobile": "Mobile",
 		"line": "Line ID"
 	},
 	"general-dent":{

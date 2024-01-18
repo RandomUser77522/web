@@ -92,7 +92,8 @@
 						"desc": [
 							"ประกาศนียบัตรทันตกรรมประดิษฐ์",
 							"วุฒิบัตรทันตกรรมประดิษฐ์สหรัฐอเมริกา",
-							"Cert. (Prosthodontics) MS. (U Maryland)",
+							"Cert. (Prosthodontics)",
+							"MS. (U of Maryland, USA)",
 							"Diplomate, American Board of Prosthodontics"
 						]
 					},
@@ -102,7 +103,7 @@
 							"ประกาศณียบัตรศัลกรรมช่องปาก",
 							"ประกาศณียบัตรรากเทียม",
 							"Cert. (Surgery)",
-							"Cert. (Implant Dentistry) UCLA"
+							"Cert. (Implant Dentistry) UCLA, USA"
 						]
 					},
 					{
@@ -140,7 +141,7 @@
 		"text": [
 					"เครื่อง CT scan",
 					"เครื่อง Digital X-ray",
-					"เครื่องแสกนภายในช่องปาก iTero",
+					"เครื่องสแกนภายในช่องปาก iTero",
 					"แลบทันตกรรมภายในคลินิก"
 				]
 	},
@@ -155,6 +156,7 @@
 		"address": ["38/8 ถนนอโศกมนตรี", "แขวงคลองเตยเหนือ เขตวัฒนา", "กรุงเทพฯ 10110"],
 		"email": "อีเมล",
 		"phone": "โทรศัพท์",
+		"mobile": "มือถือ",
 		"line": "ID ไลน์"
 	},
 	"general-dent":{
