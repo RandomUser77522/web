@@ -5,6 +5,7 @@
 
 <div class="block" id="welcome">
 	<h1>{$_("full-mouth-rehab.title")}</h1>
+	<h3>{$_("full-mouth-rehab.subtitle")}</h3>
 	{#each $_("full-mouth-rehab.text") as paragraph}
 			<p>{paragraph}</p>
 	{/each}
@@ -26,7 +27,7 @@
 	}
 	@media (max-width: 1000px){
 		.block{
-			padding: 2rem 4rem;
+			padding: 2rem 2rem;
 		}
 	}
 	#services{

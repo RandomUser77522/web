@@ -5,6 +5,8 @@
 
 <div class="block" id="welcome">
 	<h1>{$_("esthetics.title")}</h1>
+	<h3>{$_("esthetics.subtitle")}</h3>
+	<h3>{$_("esthetics.motto")}</h3>
 	{#each $_("esthetics.text") as paragraph}
 			<p>{paragraph}</p>
 	{/each}
@@ -26,7 +28,7 @@
 	}
 	@media (max-width: 1000px){
 		.block{
-			padding: 2rem 4rem;
+			padding: 2rem 2rem;
 		}
 	}
 	#services{

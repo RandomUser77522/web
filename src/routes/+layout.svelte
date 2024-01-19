@@ -25,22 +25,28 @@
 					  </svg>
 					</button>
 				</div>
-				<select class="nav-bar-element" id="language-selector" bind:value={lang} on:change={locale.set(lang)}>
-					<option value="en">🇬🇧 English</option>
-					<option value="th">🇹🇭 ภาษาไทย</option>
-					<option value="cn">🇨🇳 中文</option>
-				</select>
+				<div>
+					<select class="nav-bar-element" id="language-selector" bind:value={lang} on:change={locale.set(lang)}>
+						<option value="en">🇬🇧 English</option>
+						<option value="th">🇹🇭 ภาษาไทย</option>
+						<option value="cn">🇨🇳 中文</option>
+					</select>
+					<img class="logo-pic" src="favicon.png" alt="Logo" height="22">
+				</div>
 			</div>
 			<ul class="nav-bar">
 				<link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet"/>
 				{#each $_("navbar") as item}
 					<li class="nav-bar-element"><a href="/#{item.href}">{item.name}</a></li>
 				{/each}
-				<select class="nav-bar-element" id="language-selector" bind:value={lang} on:change={locale.set(lang)}>
-					<option value="en">🇬🇧 English</option>
-					<option value="th">🇹🇭 ภาษาไทย</option>
-					<option value="cn">🇨🇳 中文</option>
-				</select>
+				<div>
+					<select class="nav-bar-element" id="language-selector" bind:value={lang} on:change={locale.set(lang)}>
+						<option value="en">🇬🇧 English</option>
+						<option value="th">🇹🇭 ภาษาไทย</option>
+						<option value="cn">🇨🇳 中文</option>
+					</select>
+					<img class="logo-pic" src="favicon.png" alt="Logo" height="30">
+				</div>
 			</ul>
 		</nav>
 		<aside class:open id="sidebar-box">
@@ -177,7 +183,9 @@
 		border-style: none;
 		border-color: none;
 	}
-
+	.logo-pic{
+		margin: 0;
+	}
 	svg {
 	  min-height: 24px;
 	  transition: transform 0.3s ease-in-out;

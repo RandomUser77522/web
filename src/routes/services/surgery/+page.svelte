@@ -5,6 +5,7 @@
 
 <div class="block" id="welcome">
 	<h1>{$_("surgery.title")}</h1>
+	<img src="../images/implant.jpg" alt="Implant">
 	{#each $_("surgery.text") as paragraph}
 			<p>{paragraph}</p>
 	{/each}
@@ -26,8 +27,14 @@
 	}
 	@media (max-width: 1000px){
 		.block{
-			padding: 2rem 4rem;
+			padding: 2rem 2rem;
 		}
+		img{
+			width: 100%;
+		}
+	}
+	img{
+		width: 600px;
 	}
 	#services{
 		background-color: #FFDDDD;

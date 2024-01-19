@@ -6,6 +6,7 @@
 <div class="block" id="welcome">
 	<h1>{$_("implants.title")}</h1>
 	<h3>{$_("implants.subtitle")}</h3>
+	<img src="../images/implant.jpg" alt="Implant">
 	{#each $_("implants.text") as paragraph}
 			<p>{paragraph}</p>
 	{/each}
@@ -22,12 +23,18 @@
 	p{
 		font-size: 1.5rem;
 	}
+	img{
+		width: 600px;
+	}
 	.block{
 		padding: 5rem 15%;
 	}
 	@media (max-width: 1000px){
 		.block{
-			padding: 2rem 4rem;
+			padding: 2rem 2rem;
+		}
+		img{
+			width: 100%;
 		}
 	}
 	#services{

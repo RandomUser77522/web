@@ -20,7 +20,7 @@
 	</div>
 	<div class="grid-element">
 		<img src="images/vatech.jpg" alt="CT Scanner">
-		<figcaption>Vatech CT Scanner</figcaption>
+		<figcaption>CT Scanner</figcaption>
 	</div>
 	<div class="grid-element">
 		<img src="images/emax.jpg" alt="e.max crown">

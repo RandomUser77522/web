@@ -88,7 +88,7 @@
 		"title": "Our team",
 		"text": [	
 					{
-						"name": "Dr. Song Auttawetcakul",
+						"name": "Dr. Song Auttawetchakul",
 						"desc": [
 							"Cert. (Prosthodontics)",
 							"MS. (U Maryland, USA)",
@@ -164,6 +164,8 @@
 	},
 	"esthetics":{
 		"title": "Esthetics",
+		"subtitle": "Your prosthodontist is American Board certified.",
+		"motto": "Your smile: our specialty.",
 		"text":[
 			"Teeth whitening",
 			"Porcelain veneers (e.max)",
@@ -173,6 +175,7 @@
 	},
 	"full-mouth-rehab":{
 		"title": "Full Mouth Rehabilitation",
+		"subtitle": "Your prosthodontist is American Board certified.",
 		"text":[
 			"Complete dentures with or without implants",
 			"Full mouth restoration",

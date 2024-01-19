@@ -15,6 +15,11 @@
 	{/each}
 </div>
 
+<div class="flex-container">
+	<img src="images/assistants.jpg" alt="Assistants">
+	<img src="images/sunee.jpg" alt="Dr. Sunee">
+</div>
+
 <style>
 	p{
 		margin: 0;
@@ -29,6 +34,26 @@
 	@media screen and (max-width: 720px){
 		.grid-container{
 			display: block;
+		}
+	}
+	.flex-container{
+		display: flex;
+	}
+	img{
+		object-fit: cover;
+		margin: 0 1rem;
+	}
+	@media screen and (max-width: 900px){
+		.flex-container{
+			display: block;
+		}
+		img{
+			width: 95%;
+		}
+	}
+	@media screen and (min-width: 900px){
+		img{
+			height: 250px;
 		}
 	}
 </style>

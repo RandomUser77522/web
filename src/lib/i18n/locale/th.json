@@ -43,7 +43,7 @@
 						"href": "general-dentistry"
 					},
 					{
-						"title": "Full mouth rehabilitation",
+						"title": "ทันตกรรมบูรณะทั้งปาก",
 						"href": "full-mouth-rehab"
 					},
 					{
@@ -59,11 +59,11 @@
 						"href": "surgery"
 					},
 					{
-						"title": "Invisalign (จัดฟันใส)",
+						"title": "จัดฟันใส Invisalign",
 						"href": "invisalign"
 					},
 					{
-						"title": "โรคข้อต่อขากรรไกรเสื่อม",
+						"title": "ข้อต่อขากรรไกรและการบดเคี้ยว",
 						"href": "tmj"
 					},
 					{
@@ -109,6 +109,7 @@
 					{
 						"name": "ทพ. ศุภวัฒน์ พุฒิภาษ",
 						"desc": [
+							"ป. โท ทันตกรรมจัดฟัน",
 							"Master of Science (Orthodontics)"
 						]
 					},
@@ -116,14 +117,16 @@
 						"name": "ทพญ. พรทิพย์ วิริยะภาค",
 						"desc": [
 							"ทันตกรรมปริทันต์ สหรัฐอเมริกา",
+							"ป. โท ทันตกรรมปริทันต์ จุฬาลงกรณ์",
 							"DDS. MS. Master degree in Periodontics",
 							"Chulalongkorn University Post Graduated non-degree in Periodontics.",
-							"University of Michigan, Ann Arbor"
+							"University of Michigan, Ann Arbor, USA"
 						]
 					},
 					{
 						"name": "ทพญ. ภัทร์ศรี  อัสดรมิ่งมิตร",
 						"desc": [
+							"ประกาศณียบัตรรักษารากฟัน",
 							"Certificate in endodontics"
 						]
 					},
@@ -170,19 +173,24 @@
 	},
 	"esthetics":{
 		"title": "ทันตกรรมเพื่อความสวยงาม",
+		"subtitle": "Your prosthodontist is American Board certified.",
+		"motto": "รอยยิ้มของคุณคืองานของเรา",
 		"text":[
 			"Teeth whitening",
-			"Porcelain veneers",
-			"Porcelain crowns",
+			"Porcelain veneers (e.max)",
+			"Porcelain crowns (zirconium)",
 			"Porcelain inlays and onlays"
 		]
 	},
 	"full-mouth-rehab":{
-		"title": "Full Mouth Rehabilitation",
+		"title": "ทันตกรรมบูรณะทั้งปาก",
+		"subtitle": "Your prosthodontist is American Board certified.",
 		"text":[
 			"Complete dentures with or without implants",
 			"Full mouth restoration",
-			"Restore vertical dimension"
+			"Restore vertical dimension",
+			"Ceramic zirconium crowns",
+			"e.max veneers and crowns"
 		]
 	},
 	"invisalign":{
