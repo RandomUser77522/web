@@ -165,10 +165,10 @@
 	"general-dent":{
 		"title": "ทันตกรรมทั่วไป",
 		"text":[
-			"Cleaning, scaling, deep cleaning",
-			"Filling",
-			"Sealant",
-			"Fluoride"
+			"ขูดหินปูน",
+			"อุดฟัน",
+			"เคลือบหลุมร่องฟัน",
+			"เคลือบฟลูออไรด์"
 		]
 	},
 	"esthetics":{
@@ -176,7 +176,7 @@
 		"subtitle": "Your prosthodontist is American Board certified.",
 		"motto": "รอยยิ้มของคุณคืองานของเรา",
 		"text":[
-			"Teeth whitening",
+			"ฟอกสีฟัน",
 			"Porcelain veneers (e.max)",
 			"Porcelain crowns (zirconium)",
 			"Porcelain inlays and onlays"
@@ -186,11 +186,12 @@
 		"title": "ทันตกรรมบูรณะทั้งปาก",
 		"subtitle": "Your prosthodontist is American Board certified.",
 		"text":[
-			"Complete dentures with or without implants",
-			"Full mouth restoration",
-			"Restore vertical dimension",
-			"Ceramic zirconium crowns",
-			"e.max veneers and crowns"
+			"ฟันปลอมทั้งปาก ร่วมกับรากเทียม",
+			"ทันตกรรมบูรณะทั้งปาก",
+			"ฟื้นฟูระบบบดเคี้ยว",
+			"ครอบฟันเซรามิกด้วยเซอร์โคเนียม",
+			"วีเนียร์ด้วย e.max",
+			"เคลือบผิวฟันด้วยวัสดุที่มีลักษณะคล้ายฟันธรรมชาติ แก้ปัญหารูปร่่างสัดส่วนของฟัน และสีฟันให้สวยงาม"
 		]
 	},
 	"invisalign":{
@@ -205,11 +206,11 @@
 	},
 	"implants":{
 		"title": "รากฟันเทียม",
-		"subtitle": "10,000+ implant procedure, ประสบการณ์ 35 ปี",
+		"subtitle": "ประสบการณ์ 35 ปี จำนวนมากกว่า 10,000 ราก",
 		"text": [
-			"Immediate implants",
-			"Immediate implants with restoration (one visit)",
-			"Full mouth dental implants",
+			"รากเทียมชนิดใส่ทันทีหลังถอน",
+			"รากเทียมชนิดทดแทนฟันที่ถอนในทันที",
+			"รากเทียมทั้งปาก",
 			"Multiple implants",
 			"Single implant",
 			"All-on-4 implants",
