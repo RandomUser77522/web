@@ -29,10 +29,9 @@
 	"welcome":{
 		"title": "ยินดีต้อนรับสู่อโศกมนตรีเด็นทัลคลินิก",
 		"text": [
-					"Located in the heart of Bangkok, Asok Montri Dental Clinic is on Asok Montri Road, in the proximity of Asoke BTS Station and Sukhumvit MRT Station, providing a comprehensive range of high-quality dental services to both local and international patients.",
-					"Our Thai, American, and British certificated dentists are dedicated in their pursuit of excellence and offer their expertise in a courteous and professional manner. We offer our patients the highest quality services in a warm and luxurious environment.",
-					"Our multidisciplinary team with over 30 years of experience is headed by Dr. Song Auttawetchakul, American board certified prosthodontist and Dr. Sunee Panyayutthakarn, specialized in oral and dental implant surgery. We provide a complete oral care specialized in implant dentistry, esthetic smile, and also full mouth rehabilitation.",
-					"Services comprise of general and specialist dentistry, including orthodontics (braces and Invisalign), endodontics (root canals), prosthodontics (dentures etc), dental implants, oral surgery, pediatric dentistry and cosmetic dental procedures. Sedation and general anesthesia dentistry is also available."
+					"คลินิกทันตกรรมอโศกมนตรี ริมถนนอโศกมนตรีเยื้องอาคารเสริมมิตร ตรงข้ามอาคารรัชต์ภาคย์ ใกล้กับสถานีรถไฟฟ้า BTS อโศก และสถานีรถไฟใต้ดิน MRT สุขุมวิท  ให้บริการทันตกรรมคุณภาพสูงอย่างครบวงจรแก่ผู้ป่วยทั้งในและต่างประเทศ",
+					"ทีมงานมีประสบการณ์มากกว่า 35 ปี เราให้บริการการดูแลช่องปากแบบครบวงจรโดยเชี่ยวชาญด้านทันตกรรมรากเทียม รอยยิ้มเพื่อความงาม และการฟื้นฟูสมรรถภาพทั้งช่องปาก",
+					"บริการประกอบด้วยทันตกรรมทั่วไปและทันตกรรมเฉพาะทาง รวมถึงทันตกรรมจัดฟัน (จัดฟันและ Invisalign) ทันตกรรมรากฟัน (คลองรากฟัน) ทันตกรรมประดิษฐ์ (ฟันปลอม ฯลฯ) รากฟันเทียม ศัลยกรรมช่องปาก ทันตกรรมสำหรับเด็ก ข้อต่อขากรรไกรและการบดเคี้ยว และทันตกรรมเพื่อความงาม"
 				]
 	},
 	"services":{
