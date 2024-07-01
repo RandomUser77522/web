@@ -1,5 +1,5 @@
 backend:
-  repo: "github.com/asokmontridental/web"
+  name: "github"
   branch: "master"
   commit_messages:
     create: Create {{collection}} “{{slug}}”
