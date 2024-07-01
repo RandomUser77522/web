@@ -1,5 +1,5 @@
 backend:
-  name: "asokmontridental/web"
+  name: github.com/asokmontridental/web
   branch: "master"
   commit_messages:
     create: Create {{collection}} “{{slug}}”
