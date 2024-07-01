@@ -4,7 +4,7 @@
 </script>
 
 <div class="block" id="welcome">
-	<h1>{$_("surgery.title")}</h1>
+	<h1>Coming soon...</h1>
 	
 </div>
 
