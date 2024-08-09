@@ -23,7 +23,7 @@
 			<p><a href="tel:+6626408188">{$_("contact.tel")}: (+66) 02 640 8188</a></p>
 			<p><a href="tel:+66863107400">{$_("contact.mobile")}: (+66) 086 310 7400</a></p>
 			<a href="https://www.facebook.com/asokmontridentalclinic/"><img src="images/fb-icon.png" width="30px"></a>
-			<a href="https://liff.line.me/1645278921-kWRPP32q/?accountId=752cqqtk"><img src="images/line-icon.png" width="30px"></a>
+			<a href="https://liff.line.me/1645278921-kWRPP32q/?accountId=752cqqtk"><img src="images/line-logo.png" width="30px"></a>
 		</div>
 	</div>
 </html>
