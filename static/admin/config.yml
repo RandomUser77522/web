@@ -27,7 +27,7 @@ site_url: https://asokmontridental.net
 collections:
   - label: "Blog"
     name: "blog"
-    folder: "src/routes/blog/"
+    folder: "src/routes/blog"
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
