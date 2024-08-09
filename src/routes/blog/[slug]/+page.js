@@ -1,9 +1,12 @@
 /** @type {import('./$types').PageLoad} */
-export function load({ params }) {
+export async function load({ params }) {
+	const post = await import(`../${params}.md`);
+	const { title, date } = post.metadata;
+	const content = post.default;
+
 	return {
-		post: {
-			title: `Title for ${params.slug} goes here`,
-			content: `Content for ${params.slug} goes here`
-		}
+		content,
+		title,
+		date
 	};
 }
