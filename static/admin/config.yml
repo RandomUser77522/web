@@ -3,7 +3,7 @@ backend:
   repo: "asokmontridental/web"
   branch: "main"
   api_root: "https://api.github.com"
-  base_url: "https://api.netlify.com"
+  base_url: "https://sveltia-cms-auth.asokmontridental.workers.dev"
   auth_endpoint: "auth"
   
   commit_messages:
