@@ -2,10 +2,10 @@
 export async function load({ params }) {
 	const post = await import(`./${params.slug}.md`);
 	const title = post.title;
-	const content = post.body;
+	// const content = post.body;
 
 	return {
-		content,
+		// content,
 		title
 	};
 }
