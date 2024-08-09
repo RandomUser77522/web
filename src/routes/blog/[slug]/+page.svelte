@@ -4,7 +4,6 @@
 </script>
 
 <div class="block" id="welcome">
-	<h1>{data.params}</h1>
 	<h1>{data.post.title}</h1>
 	<div>{@html data.post.content}</div>
 </div>
