@@ -4,8 +4,8 @@
 </script>
 
 <div class="block" id="welcome">
-	<h1>{data.post.title}</h1>
-	<div>{@html data.post.content}</div>
+	<h1>{data.title}</h1>
+	<div>{@html data.content}</div>
 </div>
 
 <style>
