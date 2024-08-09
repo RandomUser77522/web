@@ -3,9 +3,9 @@
 	export let data;
 </script>
 
-<div class="block" id="welcome">
+<div class="block">
 	<h1>{data.title}</h1>
-	<div>{@html data.content}</div>
+	<!-- <div>{data.content}</div> -->
 </div>
 
 <style>
