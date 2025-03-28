@@ -252,5 +252,22 @@
 			"Limited movement of the jaw",
 			"Dental issues, such as wearing down of teeth"
 		]
-	}
+	},		
+	"reviews":[
+		{
+			"img": "./images/reviewer_image_1.png",
+			"name": "Mahboobeh Bakhshayesh",
+			"review": "Dr. Sunee was the only doctor in Bangkok willing to take on my treatment, and I couldn’t be more grateful. She is incredibly professional and skilled. She performed my root canal and also did a biopsy on one of my teeth. Everything went smoothly, and I deeply appreciate her expertise and care."
+		},
+		{
+			"img": "./images/reviewer_image_2.png",
+			"name": "Da Da",
+			"review": "Today I went to have my tooth extracted. I was very impressed. The female doctor had a very gentle hand. The injection didn't hurt at all. She was very professional. The price was reasonable and not expensive."
+		},
+		{
+			"img": "./images/reviewer_image_3.png",
+			"name": "Yisroel Lieberman",
+			"review": "I highly recommend this dentist, I came especially from a neighboring country to have 8 implants, he did a thorough, good and quality job, always with a smile on his face, always the most affordable price."
+		}
+	]
 }
