@@ -1,40 +1,15 @@
 <script>
 	import { _ } from "svelte-i18n";
 	import { locale } from "svelte-i18n";
+	import '../styles.css'
 </script>
 
-<div class="block" id="welcome">
+<div class="text-block" id="welcome">
 	<h1>{$_("esthetics.title")}</h1>
-	<h3>{$_("esthetics.subtitle")}</h3>
-	<h3>{$_("esthetics.motto")}</h3>
-	{#each $_("esthetics.text") as paragraph}
-			<p>{paragraph}</p>
+	<h2 class="subtitle">{$_("esthetics.subtitle")}</h2>
+	<h2 class="subtitle">{$_("esthetics.motto")}</h2>
+	{#each $_("esthetics.content") as content}
+		<h3 class="topic">{content.topic}</h3>
+		<p class="text">{@html content.text}</p>
 	{/each}
 </div>
-
-<style>
-	h1{
-		font-size: 2.5rem;
-	}
-	h3{
-		color: blue;
-		font-size: 2rem;
-	}
-	p{
-		font-size: 1.5rem;
-	}
-	.block{
-		padding: 5rem 15%;
-	}
-	@media (max-width: 1000px){
-		.block{
-			padding: 2rem 2rem;
-		}
-	}
-	#services{
-		background-color: #FFDDDD;
-	}
-	#technology{
-		background-color: #FFDDDD;
-	}
-</style>

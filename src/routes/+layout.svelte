@@ -9,9 +9,10 @@
 	// locale.set(lang);
 </script>
 
+
+<!-- svelte-ignore a11y-missing-attribute -->
 <html>
-{#if $isLoading}
-{:else}
+{#if !$isLoading}
 	<body>
 		<nav>
 			<div id="menu-bar">
@@ -31,7 +32,7 @@
 						<option value="th">🇹🇭 ภาษาไทย</option>
 						<option value="cn">🇨🇳 中文</option>
 					</select>
-					<img class="logo-pic" src="favicon.png" alt="Logo" height="22">
+					<img class="logo-pic" src="@src/routes/favicon.png" alt="Logo" height="22">
 				</div>
 			</div>
 			<ul class="nav-bar">
@@ -40,6 +41,7 @@
 					<li class="nav-bar-element"><a href="/#{item.href}">{item.name}</a></li>
 				{/each}
 				<li class="nav-bar-element"><a href="/blog">Blog</a></li>
+				<li class="nav-bar-element"><a href="/reviews">Reviews</a></li>
 				<div>
 					<select class="nav-bar-element" id="language-selector" bind:value={lang} on:change={locale.set(lang)}>
 						<option value="en">🇬🇧 English</option>

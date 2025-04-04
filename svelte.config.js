@@ -1,5 +1,6 @@
 import adapter from '@sveltejs/adapter-netlify';
 import { mdsvex } from 'mdsvex';
+import sveltePreprocess from 'svelte-preprocess';
 
 export default {
 	kit: {
@@ -14,7 +15,7 @@ export default {
 			// if `edge` is true, this option cannot be used
 			split: false
 		})
-	}
+	},
 
 	extensions: ['.svelte', '.md'],
 

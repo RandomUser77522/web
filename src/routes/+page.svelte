@@ -6,6 +6,7 @@
 	import Team from "./Team.svelte";
 	import Technology from "./Technology.svelte";
 	import Promo from "./Promo.svelte";
+	import Contact from "./Contact.svelte";
 </script>
 
 <img src="images/building.jpg" alt="Asok Montri Dental Clinic Building Picture"/>
@@ -29,6 +30,8 @@
 <div class="block" id="promo">
 	<Promo/>
 </div>
+
+
 
 <style>
 	img{
