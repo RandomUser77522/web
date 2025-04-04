@@ -2,7 +2,6 @@
 	import { _ } from "svelte-i18n";
 	import { locale } from "svelte-i18n";
 	import '../styles.css'
-    import { loadGetInitialProps } from "next/dist/shared/lib/utils";
 </script>
 
 <div class="text-block" id="welcome">
