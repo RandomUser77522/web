@@ -32,7 +32,7 @@
 						<option value="th">🇹🇭 ภาษาไทย</option>
 						<option value="cn">🇨🇳 中文</option>
 					</select>
-					<img class="logo-pic" src="favicon.png" alt="Logo" height="22">
+					<img class="logo-pic" src="@src/routes/favicon.png" alt="Logo" height="22">
 				</div>
 			</div>
 			<ul class="nav-bar">
