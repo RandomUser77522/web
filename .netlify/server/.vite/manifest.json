@@ -1,0 +1,365 @@
+{
+  ".svelte-kit/generated/server/internal.js": {
+    "file": "internal.js",
+    "name": "internal",
+    "src": ".svelte-kit/generated/server/internal.js",
+    "isEntry": true,
+    "imports": [
+      "_internal.js"
+    ]
+  },
+  "_Contact.svelte_svelte_type_style_lang.js": {
+    "file": "_app/immutable/assets/Contact.CJAdomNu.css",
+    "src": "_Contact.svelte_svelte_type_style_lang.js"
+  },
+  "_exports.js": {
+    "file": "chunks/exports.js",
+    "name": "exports"
+  },
+  "_index.js": {
+    "file": "chunks/index.js",
+    "name": "index",
+    "imports": [
+      "_utils.js"
+    ]
+  },
+  "_internal.js": {
+    "file": "chunks/internal.js",
+    "name": "internal",
+    "imports": [
+      "_ssr.js",
+      "_ssr2.js"
+    ],
+    "dynamicImports": [
+      "src/hooks.server.ts"
+    ]
+  },
+  "_runtime.js": {
+    "file": "chunks/runtime.js",
+    "name": "runtime",
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "_ssr.js": {
+    "file": "chunks/ssr.js",
+    "name": "ssr",
+    "imports": [
+      "_utils.js"
+    ]
+  },
+  "_ssr2.js": {
+    "file": "chunks/ssr2.js",
+    "name": "ssr"
+  },
+  "_styles.js": {
+    "file": "_app/immutable/assets/styles.DsHYD2OA.css",
+    "src": "_styles.js"
+  },
+  "_utils.js": {
+    "file": "chunks/utils.js",
+    "name": "utils"
+  },
+  "node_modules/@sveltejs/kit/src/runtime/components/svelte-4/error.svelte": {
+    "file": "entries/fallbacks/error.svelte.js",
+    "name": "entries/fallbacks/error.svelte",
+    "src": "node_modules/@sveltejs/kit/src/runtime/components/svelte-4/error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_utils.js",
+      "_ssr.js",
+      "_exports.js",
+      "_ssr2.js"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/server/index.js": {
+    "file": "index.js",
+    "name": "index",
+    "src": "node_modules/@sveltejs/kit/src/runtime/server/index.js",
+    "isEntry": true,
+    "imports": [
+      "_internal.js",
+      "_exports.js",
+      "_index.js"
+    ]
+  },
+  "src/hooks.server.ts": {
+    "file": "chunks/hooks.server.js",
+    "name": "hooks.server",
+    "src": "src/hooks.server.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_runtime.js"
+    ]
+  },
+  "src/lib/i18n/locale/cn.json": {
+    "file": "chunks/cn.js",
+    "name": "cn",
+    "src": "src/lib/i18n/locale/cn.json",
+    "isDynamicEntry": true
+  },
+  "src/lib/i18n/locale/en.json": {
+    "file": "chunks/en.js",
+    "name": "en",
+    "src": "src/lib/i18n/locale/en.json",
+    "isDynamicEntry": true
+  },
+  "src/lib/i18n/locale/th.json": {
+    "file": "chunks/th.js",
+    "name": "th",
+    "src": "src/lib/i18n/locale/th.json",
+    "isDynamicEntry": true
+  },
+  "src/routes/+layout.svelte": {
+    "file": "entries/pages/_layout.svelte.js",
+    "name": "entries/pages/_layout.svelte",
+    "src": "src/routes/+layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_utils.js",
+      "_ssr.js",
+      "_runtime.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_layout.DBQvdgio.css",
+      "_app/immutable/assets/Contact.CJAdomNu.css"
+    ]
+  },
+  "src/routes/+layout.ts": {
+    "file": "entries/pages/_layout.ts.js",
+    "name": "entries/pages/_layout.ts",
+    "src": "src/routes/+layout.ts",
+    "isEntry": true,
+    "imports": [
+      "_runtime.js"
+    ],
+    "dynamicImports": [
+      "src/lib/i18n/locale/en.json",
+      "src/lib/i18n/locale/th.json",
+      "src/lib/i18n/locale/cn.json"
+    ]
+  },
+  "src/routes/+page.server.js": {
+    "file": "entries/pages/_page.server.js",
+    "name": "entries/pages/_page.server",
+    "src": "src/routes/+page.server.js",
+    "isEntry": true
+  },
+  "src/routes/+page.svelte": {
+    "file": "entries/pages/_page.svelte.js",
+    "name": "entries/pages/_page.svelte",
+    "src": "src/routes/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js",
+      "_runtime.js",
+      "_utils.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.CTslAefU.css",
+      "_app/immutable/assets/Contact.CJAdomNu.css"
+    ]
+  },
+  "src/routes/blog/+page.svelte": {
+    "file": "entries/pages/blog/_page.svelte.js",
+    "name": "entries/pages/blog/_page.svelte",
+    "src": "src/routes/blog/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js",
+      "_runtime.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.BpUjVEks.css"
+    ]
+  },
+  "src/routes/blog/[slug]/+page.js": {
+    "file": "entries/pages/blog/_slug_/_page.js",
+    "name": "entries/pages/blog/_slug_/_page",
+    "src": "src/routes/blog/[slug]/+page.js",
+    "isEntry": true
+  },
+  "src/routes/blog/[slug]/+page.svelte": {
+    "file": "entries/pages/blog/_slug_/_page.svelte.js",
+    "name": "entries/pages/blog/_slug_/_page.svelte",
+    "src": "src/routes/blog/[slug]/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.BpUjVEks.css"
+    ]
+  },
+  "src/routes/reviews/+page.svelte": {
+    "file": "entries/pages/reviews/_page.svelte.js",
+    "name": "entries/pages/reviews/_page.svelte",
+    "src": "src/routes/reviews/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_utils.js",
+      "_ssr.js",
+      "_runtime.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.Ksm6bA9Q.css"
+    ]
+  },
+  "src/routes/services/anxiety-phobia/+page.svelte": {
+    "file": "entries/pages/services/anxiety-phobia/_page.svelte.js",
+    "name": "entries/pages/services/anxiety-phobia/_page.svelte",
+    "src": "src/routes/services/anxiety-phobia/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_utils.js",
+      "_ssr.js",
+      "_runtime.js"
+    ],
+    "css": [
+      "_app/immutable/assets/styles.DsHYD2OA.css"
+    ]
+  },
+  "src/routes/services/esthetics/+page.svelte": {
+    "file": "entries/pages/services/esthetics/_page.svelte.js",
+    "name": "entries/pages/services/esthetics/_page.svelte",
+    "src": "src/routes/services/esthetics/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_utils.js",
+      "_ssr.js",
+      "_runtime.js"
+    ],
+    "css": [
+      "_app/immutable/assets/styles.DsHYD2OA.css"
+    ]
+  },
+  "src/routes/services/full-mouth-rehab/+page.svelte": {
+    "file": "entries/pages/services/full-mouth-rehab/_page.svelte.js",
+    "name": "entries/pages/services/full-mouth-rehab/_page.svelte",
+    "src": "src/routes/services/full-mouth-rehab/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_utils.js",
+      "_ssr.js",
+      "_runtime.js"
+    ],
+    "css": [
+      "_app/immutable/assets/styles.DsHYD2OA.css"
+    ]
+  },
+  "src/routes/services/general-dentistry/+page.svelte": {
+    "file": "entries/pages/services/general-dentistry/_page.svelte.js",
+    "name": "entries/pages/services/general-dentistry/_page.svelte",
+    "src": "src/routes/services/general-dentistry/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_utils.js",
+      "_ssr.js",
+      "_runtime.js"
+    ],
+    "css": [
+      "_app/immutable/assets/styles.DsHYD2OA.css"
+    ]
+  },
+  "src/routes/services/implants/+page.svelte": {
+    "file": "entries/pages/services/implants/_page.svelte.js",
+    "name": "entries/pages/services/implants/_page.svelte",
+    "src": "src/routes/services/implants/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_utils.js",
+      "_ssr.js",
+      "_runtime.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.BXbGumUB.css",
+      "_app/immutable/assets/styles.DsHYD2OA.css"
+    ]
+  },
+  "src/routes/services/invisalign/+page.svelte": {
+    "file": "entries/pages/services/invisalign/_page.svelte.js",
+    "name": "entries/pages/services/invisalign/_page.svelte",
+    "src": "src/routes/services/invisalign/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_utils.js",
+      "_ssr.js",
+      "_runtime.js"
+    ],
+    "css": [
+      "_app/immutable/assets/styles.DsHYD2OA.css"
+    ]
+  },
+  "src/routes/services/orthodontics/+page.svelte": {
+    "file": "entries/pages/services/orthodontics/_page.svelte.js",
+    "name": "entries/pages/services/orthodontics/_page.svelte",
+    "src": "src/routes/services/orthodontics/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_utils.js",
+      "_ssr.js",
+      "_runtime.js"
+    ],
+    "css": [
+      "_app/immutable/assets/styles.DsHYD2OA.css"
+    ]
+  },
+  "src/routes/services/periodontal/+page.svelte": {
+    "file": "entries/pages/services/periodontal/_page.svelte.js",
+    "name": "entries/pages/services/periodontal/_page.svelte",
+    "src": "src/routes/services/periodontal/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_utils.js",
+      "_ssr.js",
+      "_runtime.js"
+    ],
+    "css": [
+      "_app/immutable/assets/styles.DsHYD2OA.css"
+    ]
+  },
+  "src/routes/services/rct/+page.svelte": {
+    "file": "entries/pages/services/rct/_page.svelte.js",
+    "name": "entries/pages/services/rct/_page.svelte",
+    "src": "src/routes/services/rct/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_utils.js",
+      "_ssr.js",
+      "_runtime.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.DqvZ9AwO.css",
+      "_app/immutable/assets/styles.DsHYD2OA.css"
+    ]
+  },
+  "src/routes/services/surgery/+page.svelte": {
+    "file": "entries/pages/services/surgery/_page.svelte.js",
+    "name": "entries/pages/services/surgery/_page.svelte",
+    "src": "src/routes/services/surgery/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_utils.js",
+      "_ssr.js",
+      "_runtime.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.DSATYizl.css",
+      "_app/immutable/assets/styles.DsHYD2OA.css"
+    ]
+  },
+  "src/routes/services/tmj/+page.svelte": {
+    "file": "entries/pages/services/tmj/_page.svelte.js",
+    "name": "entries/pages/services/tmj/_page.svelte",
+    "src": "src/routes/services/tmj/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_utils.js",
+      "_ssr.js",
+      "_runtime.js"
+    ],
+    "css": [
+      "_app/immutable/assets/styles.DsHYD2OA.css"
+    ]
+  }
+}
