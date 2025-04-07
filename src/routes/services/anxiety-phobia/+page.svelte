@@ -8,6 +8,6 @@
 	<h1 class="title">{$_("anxiety-phobia.title")}</h1>
 	{#each $_("anxiety-phobia.content") as content}
 		<h3 class="topic">{content.topic}</h3>
-		<p class="text">{content.text}</p>
+		<p class="text">{@html content.text}</p>
 	{/each}
 </div>
