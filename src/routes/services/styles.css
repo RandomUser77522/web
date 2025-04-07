@@ -8,6 +8,35 @@
 .subtitle{
     font-size: 2rem;
 }
+.text {
+    display: -webkit-box;
+    line-clamp: 5;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.expanded {
+    line-clamp: initial;
+    -webkit-line-clamp: initial;
+    display: block;
+}
+
+.read-more {
+    background: none;
+    border: none;
+    color: #0066cc;
+    cursor: pointer;
+    padding: 0;
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+}
+
+.read-more:hover {
+    text-decoration: underline;
+}
+
 .text-block{
     padding: 5rem 15%;
 }
