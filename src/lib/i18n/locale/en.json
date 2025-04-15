@@ -176,6 +176,8 @@
 				"topic":"Fluoride",
 				"text":""
 			}
+		],
+		"FAQ":[
 		]
 	},
 	"esthetics":{
@@ -199,6 +201,8 @@
 				"topic":"Porcelain inlays and onlays",
 				"text":""
 			}
+		],
+		"FAQ":[
 		]
 	},
 	"full-mouth-rehab":{
@@ -229,6 +233,8 @@
 				"topic":"e.max veneers and crowns",
 				"text":""
 			}
+		],
+		"FAQ":[
 		]
 	},
 	"invisalign":{
@@ -254,6 +260,8 @@
 				"topic":"Invisalign Comprehensive",
 				"text":"Invisalign Comprehensive is a teeth-straightening system using clear, removable aligners to address complex orthodontic cases, including crowding, underbites, and overbites, with an unlimited number of aligners to achieve the desired result.<br><br>Who it's for: It's suitable for individuals who may have previously undergone orthodontic treatment or have complex alignment problems, such as crowding, underbites, open bites, overbites, crossbites, and overjets.<br>Treatment duration: The treatment duration can vary between 1 to 4 years, depending on the individual case.<br>"
 			}
+		],
+		"FAQ":[
 		]
 	},
 	"implants":{
@@ -287,6 +295,10 @@
 			{
 				"topic":"Computer guided implant surgery",
 				"text":""
+			}
+		],
+		"FAQ":[
+			{
 			}
 		]
 	},
@@ -326,6 +338,8 @@
 				"topic":"Bone and soft tissue surgery",
 				"text":""
 			}	
+		],
+		"FAQ":[
 		]
 	},
 	"rct":{
@@ -335,6 +349,8 @@
 				"topic":"Root canal treatment",
 				"text":""
 			}
+		],
+		"FAQ":[
 		]
 	},
 	"periodontal":{
@@ -360,6 +376,8 @@
 				"topic":"Gingival graft",
 				"text":""
 			}
+		],
+		"FAQ":[
 		]
 	},
 	"orthodontics":{
@@ -369,6 +387,8 @@
 				"topic":"Orthodontics",
 				"text":""
 			}
+		],
+		"FAQ":[
 		]
 	},
 	"anxiety-phobia":{
@@ -382,6 +402,8 @@
 				"topic":"Oral sedation and general anesthesia working with anesthesiologist team",
 				"text":""
 			}
+		],
+		"FAQ":[
 		]
 	},
 	"tmj":{
@@ -399,6 +421,8 @@
 				"topic":"Dental issues, such as wearing down of teeth",
 				"text":""
 			}	
+		],
+		"FAQ":[
 		]
 	},		
 	"reviews":[
