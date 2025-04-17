@@ -176,6 +176,8 @@
 				"topic":"Fluoride",
 				"text":""
 			}
+		],
+		"FAQ":[
 		]
 	},
 	"esthetics":{
@@ -199,6 +201,8 @@
 				"topic":"Porcelain inlays and onlays",
 				"text":""
 			}
+		],
+		"FAQ":[
 		]
 	},
 	"full-mouth-rehab":{
@@ -229,6 +233,8 @@
 				"topic":"e.max veneers and crowns",
 				"text":""
 			}
+		],
+		"FAQ":[
 		]
 	},
 	"invisalign":{
@@ -254,6 +260,8 @@
 				"topic":"Invisalign Comprehensive",
 				"text":"Invisalign Comprehensive is a teeth-straightening system using clear, removable aligners to address complex orthodontic cases, including crowding, underbites, and overbites, with an unlimited number of aligners to achieve the desired result.<br><br>Who it's for: It's suitable for individuals who may have previously undergone orthodontic treatment or have complex alignment problems, such as crowding, underbites, open bites, overbites, crossbites, and overjets.<br>Treatment duration: The treatment duration can vary between 1 to 4 years, depending on the individual case.<br>"
 			}
+		],
+		"FAQ":[
 		]
 	},
 	"implants":{
@@ -270,7 +278,7 @@
 			},
 			{
 				"topic":"Full mouth dental implants",
-				"text":""
+				"text":"This treatment is suitable for those who lost all the teeth, need to do full mouth rehabilitation with implants. A long term success can be expected. <br><br>In out clinic, this treatment of full mouth implant together with sinus grafting of all the patients has been succeeded for more than 30 years as the photos shown."
 			},
 			{
 				"topic":"Multiple implants",
@@ -287,6 +295,10 @@
 			{
 				"topic":"Computer guided implant surgery",
 				"text":""
+			}
+		],
+		"FAQ":[
+			{
 			}
 		]
 	},
@@ -326,6 +338,8 @@
 				"topic":"Bone and soft tissue surgery",
 				"text":""
 			}	
+		],
+		"FAQ":[
 		]
 	},
 	"rct":{
@@ -333,8 +347,10 @@
 		"content": [
 			{
 				"topic":"Root canal treatment",
-				"text":""
+				"text":"Root canal treatment (endodontic therapy) is aim to cure the  infection within a tooth's pulp, while root surgery (endodontic surgery) is a more invasive procedure used when the infection persist and has the apical lesion or cyst often focusing on the tip of the root. <br>We also use CT scan for endodontics to find the pathway of the root  canal within the root from the orifice down to the apex , which help to treat the root canal more efficiently and success.<br><br>In our clinic we have  99% the success rate of root canal treatment . While root canal treatment together with root surgery , the success rate is 100%."
 			}
+		],
+		"FAQ":[
 		]
 	},
 	"periodontal":{
@@ -360,6 +376,8 @@
 				"topic":"Gingival graft",
 				"text":""
 			}
+		],
+		"FAQ":[
 		]
 	},
 	"orthodontics":{
@@ -369,6 +387,8 @@
 				"topic":"Orthodontics",
 				"text":""
 			}
+		],
+		"FAQ":[
 		]
 	},
 	"anxiety-phobia":{
@@ -382,11 +402,17 @@
 				"topic":"Oral sedation and general anesthesia working with anesthesiologist team",
 				"text":""
 			}
+		],
+		"FAQ":[
 		]
 	},
 	"tmj":{
-		"title": "TMJ and Occlusion Treatment",
+		"title": "TMD and Occlusion Treatment",
 		"content": [
+			{
+				"topic":"",
+				"text":"TMD (Temporomandibular Disorders)<br><br>There are three main classes of TMDs:<br>1. Disorders of the joints, including disc disorders.<br>2. Disorders of the muscles used for chewing (masticatory muscles).<br>3. Headaches associated with a TMD.<br><br>In most cases, the exact cause is not clear. For many people, symptoms seem to start without obvious reason. Recent research suggests a combination of genes, psychological and life stressors.Because TMDs are more common in women than in men.Research does not support the belief that a bad bite or orthodontic braces cause TMDs.<br><brSymptoms of TMJ disorders may include:<br>• Pain or tenderness in the jaw<br>• Pain in one or both temporomandibular joints.<br>• Aching pain in and around the ear.<br>• Having a hard time chewing or pain while chewing.<br>• Aching facial pain.<br>• Locking of the joint, making it hard to open or close your mouth<br>• Headache.<br>• Neck pain<br>• Eye pain.<br>TMJ disorders also can cause a clicking sound or grating sensation when you open your mouth or chew. But if there's no pain or limitation of movement related to your jaw clicking, it's likely that you won't need treatment.<br><br>The following symptoms may signal a TMD:<br>• Pain in the chewing muscles and/or jaw joint (most common symptom).<br>• Pain that spreads to the face or neck<br>• Jaw stiffness.<br>• Limited movement or locking of the jaw.<br>• Painful clicking, popping, or grating in the jaw joint when opening or closing the mouth.<br>• Ringing in the ears, hearing loss, or dizziness<br>• A change in the way the upper and lower teeth fit together.<br><br>There are no long-term research studies on the safety of open surgery for TMDs or on how well it works to relieve symptoms.<br><br>Myofascial Pain and TMD:<br>Myofascial pain is a frequent type of TMD, particularly affecting the muscles of mastication (chewing). <br>• Causes: TMD can result from muscle tension, fatigue, or spasm in the muscles around the jaw, which can lead to myofascial pain. <br>• Factors Contributing to TMD: Misalignment, disease, injury, teeth grinding (bruxism), or clenching can cause the muscles that support the TMJ to become inflamed or strained, leading to pain trigger points. <br>• Symptoms: Pain around the jaw, ear, and temple, clicking, popping, or grinding noises when moving the jaw, and headaches around the temples are common symptoms of TMD.<br>• Treatment:Conservative treatment options, including analgesics, muscle relaxation techniques, modifying parafunctional behaviors (teeth clenching and grinding), and oral appliances, are often effective."
+			},
 			{
 				"topic":"Tenderness at the joint",
 				"text":""
@@ -399,6 +425,8 @@
 				"topic":"Dental issues, such as wearing down of teeth",
 				"text":""
 			}	
+		],
+		"FAQ":[
 		]
 	},		
 	"reviews":[

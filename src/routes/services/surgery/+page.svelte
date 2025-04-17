@@ -2,6 +2,7 @@
 	import { _ } from "svelte-i18n";
 	import { locale } from "svelte-i18n";
 	import '../styles.css'
+	import Faq from "../FAQ.svelte";
 	let expandedSections = [];
 	function toggleSection(index) {
 		expandedSections = expandedSections.includes(index) 
@@ -20,6 +21,9 @@
 		<button on:click={() => toggleSection(index)} class="read-more">
 			{expandedSections.includes(index) ? $_("read less") : $_("read more")}
 		</button>
+	{/each}
+	{#each $_("surgery.FAQ") as content}
+		<Faq question = {content.question} answer = {content.answer}/>
 	{/each}
 </div>
 
