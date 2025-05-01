@@ -174,7 +174,7 @@
 			},
 			{
 				"topic":"Fluoride",
-				"text":""
+				"text":"Fluoride treatments involve applying a topical fluoride solution, gel, foam, or varnish to the teeth. <br>Fluoride strengthens tooth enamel by making it more resistant to acid attacks from bacteria and food."
 			}
 		],
 		"FAQ":[
@@ -187,15 +187,15 @@
 		"content":[
 			{
 				"topic":"Teeth whitening",
-				"text":""
+				"text":"There are two types of teeth whitening. In-office and Home kit whitening.<br><br>In-office whitening: <br>In our clinic we use Zoom teeth whitening  system. <br>When compare to home kit whitening is faster, convenient, and can achieve significant whitening in a single session. <br><br>Home kit whitening : <br>Affordable , convenient with at-home use , effective and can be used periodically for long lasting effect."
 			},
 			{
 				"topic":"Porcelain veneers (e.max)",
-				"text":""
+				"text":"An Emax crown is a type of all-ceramic dental crown , a glass-ceramic material known for its strength, durability, and aesthetic appeal.They are a popular choice for restoring damaged or decayed teeth, particularly in the front where aesthetics are important."
 			},
 			{
 				"topic":"Porcelain crowns (zirconium)",
-				"text":""
+				"text":"A ceramic zirconia crown is a type of dental crown made entirely from zirconia, a strong and durable ceramic material, without any metal components."
 			},
 			{
 				"topic":"Porcelain inlays and onlays",
@@ -215,23 +215,23 @@
 			},
 			{
 				"topic":"Complete dentures with or without implants",
-				"text":""
+				"text":"We provide treatment options  such as traditional complete dentures, and complete dentures supported by dental implants. Complete dentures supported by implants can also be removable and nonremovable type."
 			},
 			{
 				"topic":"Full mouth restoration",
-				"text":""
+				"text":"Full mouth restoration is a comprehensive dental treatment plan that rebuilds or replaces all teeth in both the upper and lower jaws, addressing issues like missing, damaged, or decayed teeth, bite problems from worn down teeth."
 			},
 			{
 				"topic":"Restore vertical dimension",
-				"text":""
+				"text":"Restoring the vertical dimension of occlusion  in dentistry means re-establishing the correct vertical distance between the upper and lower jaws when the teeth are in contact. This is often necessary when there has been a loss of teeth or excessive tooth wear, leading to a decrease in this distance. The goal is to return the jaws to their proper position to improve function, aesthetics"
 			},
 			{
 				"topic":"Ceramic zirconium crowns",
-				"text":""
+				"text":"A ceramic zirconia crown is a type of dental crown made entirely from zirconia, a strong and durable ceramic material, without any metal components."
 			},
 			{
 				"topic":"e.max veneers and crowns",
-				"text":""
+				"text":"An Emax crown is a type of all-ceramic dental crown , a glass-ceramic material known for its strength, durability, and aesthetic appeal.They are a popular choice for restoring damaged or decayed teeth, particularly in the front where aesthetics are important."
 			}
 		],
 		"FAQ":[
@@ -240,10 +240,6 @@
 	"invisalign":{
 		"title": "Invisalign",
 		"content":[
-			{
-				"topic":"Child, teen adult",
-				"text":""
-			},
 			{
 				"topic":"Invisalign Go",
 				"text":"Invisalign Go is a streamlined, shorter version of the traditional Invisalign system, designed for treating minor to moderate tooth misalignments and is typically offered by general dentists or orthodontists. It uses fewer aligners than full Invisalign, resulting in a shorter treatment duration.<br><br> <b>Treatment Focus:</b> Invisalign Go is suitable for patients with mild to moderate cases of misalignment, such as minor crowding, gaps, or slight rotations. <br><b>Treatment Duration:</b> The treatment time is typically shorter than full Invisalign, often ranging from 7 to 15 weeks. <br><b>Number of Aligners:</b> Invisalign Go uses fewer aligners, typically 20-26, compared to the full Invisalign system which can use up to 50 aligners. <br><b>Who can offer it:</b> Invisalign Go can be offered by general dentists or orthodontists who have been trained in the system. <br><br><b>Benefits:</b> <br> Shorter treatment time: The shorter treatment duration makes it appealing for patients who want quick results. <br><b>Cost-effective:</b> The shorter treatment and fewer aligners can make Invisalign Go a more budget-friendly option. <br><b>Discreet:</b> Like traditional Invisalign, the aligners are clear and removable, making them discreet for patients. <br>Comfortable: The aligners are custom-made to fit the teeth comfortably and apply gentle pressure to reposition the teeth. <br><br>Considerations: <br><b>Not for severe cases:</b> Invisalign Go is not designed for complex orthodontic issues, such as severe overbites or underbites. <br><br><b>Consultation is key:</b> It's important to consult with a dental professional to determine if Invisalign Go is the right treatment option for your specific needs."
@@ -281,12 +277,8 @@
 				"text":"This treatment is suitable for those who lost all the teeth, need to do full mouth rehabilitation with implants. A long term success can be expected. <br><br>In out clinic, this treatment of full mouth implant together with sinus grafting of all the patients has been succeeded for more than 30 years as the photos shown."
 			},
 			{
-				"topic":"Multiple implants",
-				"text":""
-			},
-			{
-				"topic":"Single implant",
-				"text":""
+				"topic":"Single and Multiple implants",
+				"text":"Single implants are ideal for replacing a single missing tooth. While multiple implants are used to replace multiple teeth. Some may need  a full arch implant to replace all missing teeth.<br>The beneficial of dental implants is to maintain or restore the health , esthetics and function of patients.<br><br>Single implants generally require less time and fewer visits, while multiple implant is more complexity, the procedures can be more complex and require more time and procedures. <br><br>An experienced and skilled dentist is crucial for successful dental implant placement. <br>In our clinic , we provide the treatment by dental implant expertise over 35 years experience.<br>Our over all high success rate is as high as 99%."
 			},
 			{
 				"topic":"All-on-4 implants",
@@ -312,31 +304,31 @@
 			},
 			{
 				"topic":"Simultaneous implant and sinus graft",
-				"text":""
+				"text":"Simultaneous implant placement and bone grafting is a common technique where a bone graft is placed and an implant is installed during the same surgery. This approach aims to reduce the overall treatment time and potentially enhance bone integration compared to separate procedures. <br><br>Simultaneous implant placement and  sinus augmentation are also  bone grafting with involves raising the sinus floor to provide more bone for dental implant support, while placing the implants at the same time as the augmentation. This \"one-stage\" approach aims to streamline treatment and potentially minimize the need for a second surgery for implant placement. <br><br>Surgical skill: The procedure requires a high level of surgical skill and precision to ensure proper implant placement and graft integration. <br><br><br>Benefits:Reduced treatment time, improved bone integration and enhanced aesthetics especially for the  smile zone"
 			},
 			{
 				"topic":"Bone graft",
-				"text":""
+				"text":"Bone grafting, a procedure that increases bone volume in the jaw, is often necessary before or during dental implant placement to ensure the implant has a solid foundation and a higher chance of success. It's done when there's insufficient bone at the implant site, which can happen due to tooth loss, bone disease, or other factors."
 			},
 			{
 				"topic":"Soft tissue graft",
-				"text":""
+				"text":"Soft tissue grafting and implant placement are related dental procedures where soft tissue, like gums, is added or modified around a dental implant to improve its long-term health and aesthetics. Implant placement involves surgically inserting an artificial tooth root into the jawbone, while soft tissue grafting aims to enhance the quality and quantity of gum tissue surrounding the implant for the long-term success."
 			},
 			{
 				"topic":"Wisdom tooth removal",
-				"text":""
+				"text":"Wisdom teeth removal, also known as extraction, is a dental procedure to remove one or more wisdom teeth (third molars) at the back of the mouth. This is typically done when wisdom teeth cause problems like pain, swelling, infection, or if they are impacted and not erupting properly."
 			},
 			{
 				"topic":"Embedded tooth removal",
-				"text":""
+				"text":"Embedded tooth removal is a surgical procedure to remove a tooth that totally unerupts  due to various reasons like lack of eruptive force or obstruction. The embedded teeth may be third molar, premolar and canine.   The procedure involves in surgical extraction."
 			},
 			{
 				"topic":"Root surgery",
-				"text":""
+				"text":"Root surgery, also known as endodontic surgery or apicoectomy, is a dental procedure performed when conventional root canal treatment fails to resolve an infection or inflammation at the very tip of a tooth's root. It involves surgically exposing the root tip, removing any infected tissue, and sealing the root end. <br><br>In our clinic we have  99% the success rate of root canal treatment . While root canal treatment together with root surgery , the success rate is 100%."
 			},
 			{
 				"topic":"Bone and soft tissue surgery",
-				"text":""
+				"text":"Bone and soft tissue surgeries in oral surgery involve procedures to augment, reduce, or reshape bone and soft tissues (like gums) in the mouth. These surgeries are often performed to address issues like insufficient bone for dental implants, gum recession, or to remove tumor in the jaw bone. Also to improve the quality or quantity of soft tissues (gums) around teeth or implants, address gum recession, or reshape the gumline. <br><br>These procedures require a specialist with advanced skill. In our clinic,  we provide the best treatment to our patients by specialist oral surgeons with over 35 years’ experience."
 			}	
 		],
 		"FAQ":[
@@ -358,23 +350,23 @@
 		"content": [
 			{
 				"topic":"Deep cleaning, root planing",
-				"text":""
+				"text":"We  provide service of scaling , deep cleaning and root planing with Newton P5 piezo scaler. <br><br>Unlike traditional ultrasonic scalers, the P5 Booster's linear and controlled vibrations are gentle on the teeth and enamel, preventing erosion and post-operative sensitivity<br><br>The Newtron P5  piezo scaler, known for its precision and efficiency, offers benefits like gentle yet effective plaque and calculus removal, enhanced patient comfort."
 			},
 			{
 				"topic":"Esthetic gum surgery",
-				"text":""
+				"text":"Esthetic gum surgery, also known as periodontal plastic surgery, focuses on improving the appearance of gums and enhancing a smile's esthetics. It can address issues like gummy smiles, uneven gum lines, and gum recession."
 			},
 			{
 				"topic":"Peri-implantitis treatment",
-				"text":""
+				"text":"Peri-implantitis is a destructive inflammatory condition affecting the tissues surrounding dental implants, characterized by inflammation and progressive bone loss, similar to gum disease around natural teeth."
 			},
 			{
 				"topic":"Bone graft",
-				"text":""
+				"text":"Bone grafting is a crucial part of periodontal (gum disease) treatment when bone loss has occurred due to the condition. It involves replacing lost bone with a graft to support teeth and potentially allow for future dental implants. Bone grafting is often used in conjunction with other periodontal procedures, such as scaling and root planing, to regenerate lost bone and improve the overall health of the gums and teeth."
 			},
 			{
 				"topic":"Gingival graft",
-				"text":""
+				"text":"Gingival grafting or gum grafting procedure is used to address gum recession by adding gum tissue to the exposed areas of the tooth root."
 			}
 		],
 		"FAQ":[
@@ -395,12 +387,8 @@
 		"title": "Dentistry Anxiety and Phobia",
 		"content": [
 			{
-				"topic":"General anesthesia and sedation",
-				"text":""
-			},
-			{
-				"topic":"Oral sedation and general anesthesia working with anesthesiologist team",
-				"text":""
+				"topic":"",
+				"text":"Dental anxiety and phobia can be managed through a combination of behavioral techniques, relaxation methods, and, in some cases, sedation or general anesthesia. Addressing dental anxiety often starts with communication and building trust with the dentist. For mild anxiety, relaxation techniques like deep breathing, progressive muscle relaxation, and distraction methods can be effective. <br><br>When anxiety is more significant, dentists may employ oral sedation technique together with local anesthesia. <br><br>For surgical procedures requiring general anesthesia,  we work with  our anesthesiologist team  in alliance hospital."
 			}
 		],
 		"FAQ":[
@@ -410,21 +398,17 @@
 		"title": "TMD and Occlusion Treatment",
 		"content": [
 			{
-				"topic":"",
+				"topic":"Types of TMD",
 				"text":"TMD (Temporomandibular Disorders)<br><br>There are three main classes of TMDs:<br>1. Disorders of the joints, including disc disorders.<br>2. Disorders of the muscles used for chewing (masticatory muscles).<br>3. Headaches associated with a TMD.<br><br>In most cases, the exact cause is not clear. For many people, symptoms seem to start without obvious reason. Recent research suggests a combination of genes, psychological and life stressors.Because TMDs are more common in women than in men.Research does not support the belief that a bad bite or orthodontic braces cause TMDs.<br><brSymptoms of TMJ disorders may include:<br>• Pain or tenderness in the jaw<br>• Pain in one or both temporomandibular joints.<br>• Aching pain in and around the ear.<br>• Having a hard time chewing or pain while chewing.<br>• Aching facial pain.<br>• Locking of the joint, making it hard to open or close your mouth<br>• Headache.<br>• Neck pain<br>• Eye pain.<br>TMJ disorders also can cause a clicking sound or grating sensation when you open your mouth or chew. But if there's no pain or limitation of movement related to your jaw clicking, it's likely that you won't need treatment.<br><br>The following symptoms may signal a TMD:<br>• Pain in the chewing muscles and/or jaw joint (most common symptom).<br>• Pain that spreads to the face or neck<br>• Jaw stiffness.<br>• Limited movement or locking of the jaw.<br>• Painful clicking, popping, or grating in the jaw joint when opening or closing the mouth.<br>• Ringing in the ears, hearing loss, or dizziness<br>• A change in the way the upper and lower teeth fit together.<br><br>There are no long-term research studies on the safety of open surgery for TMDs or on how well it works to relieve symptoms.<br><br>Myofascial Pain and TMD:<br>Myofascial pain is a frequent type of TMD, particularly affecting the muscles of mastication (chewing). <br>• Causes: TMD can result from muscle tension, fatigue, or spasm in the muscles around the jaw, which can lead to myofascial pain. <br>• Factors Contributing to TMD: Misalignment, disease, injury, teeth grinding (bruxism), or clenching can cause the muscles that support the TMJ to become inflamed or strained, leading to pain trigger points. <br>• Symptoms: Pain around the jaw, ear, and temple, clicking, popping, or grinding noises when moving the jaw, and headaches around the temples are common symptoms of TMD.<br>• Treatment:Conservative treatment options, including analgesics, muscle relaxation techniques, modifying parafunctional behaviors (teeth clenching and grinding), and oral appliances, are often effective."
 			},
 			{
-				"topic":"Tenderness at the joint",
-				"text":""
-			},
+				"topic":"Symptoms of TMD or TMJ",
+				"text":"Symptoms of TMJ disorders may include:<br>• Pain or tenderness in the jaw.<br>• Pain in one or both temporomandibular joints.<br>• Aching pain in and around the ear.<br>• Having a hard time chewing or pain while chewing.<br>• Aching facial pain.<br>• Locking of the joint, making it hard to open or close your mouth.<br>• Headache.<br>• Neck pain."
+			},			
 			{
-				"topic":"Limited movement of the jaw",
-				"text":""
-			},
-			{
-				"topic":"Dental issues, such as wearing down of teeth",
-				"text":""
-			}	
+				"topic":"Treatment and success rate",
+				"text":"Conservative treatment options, including analgesics, muscle relaxation techniques, modifying parafunctional behaviors (teeth clenching and grinding), and oral appliances, are often effective. <br><br>In our clinic treatment of TMD has the success rate of 99%  for over 35 years. The age of patients is from 24 to 80 years."
+			}
 		],
 		"FAQ":[
 		]
