@@ -3,6 +3,7 @@
 	import { locale } from "svelte-i18n";
 	import '../styles.css'
 	import Faq from "../FAQ.svelte";
+	import BeforeAfter from "../Before-After.svelte";
 	let expandedSections = [];
 	function toggleSection(index) {
 		expandedSections = expandedSections.includes(index) 
@@ -13,10 +14,7 @@
 
 <div class="text-block" id="welcome">
 	<h1 class="title">{$_("rct.title")}</h1>
-	<div class="flex-container">
-		<img src="../images/rct-before.jpg" alt="Root Canal Before Treatment">
-		<img src="../images/rct-after.jpg" alt="Root Canal After Treatment">
-	</div>
+	<BeforeAfter src1="../images/rct-before.jpg" src2="../images/rct-after.jpg" alt1="Root Canal Before Treatment" alt2="Root Canal After Treatment"/>
 	{#each $_("rct.content") as content, index}
 		<h3 class="topic">{content.topic}</h3>
 		<p class="text" class:expanded={expandedSections.includes(index)}>{@html content.text}</p>
