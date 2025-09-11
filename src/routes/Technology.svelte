@@ -26,6 +26,10 @@
 		<img src="images/emax.jpg" alt="e.max crown">
 		<figcaption>e.max</figcaption>
 	</div>
+	<div class="grid-element">
+		<img src="images/Trophy1.jpg" alt="mastering Itero award">
+		<figcaption>Itero Awars</figcaption>
+	</div>
 </div>
 
 <style>
