@@ -18,6 +18,7 @@
 <div class="flex-container">
 	<img src="images/assistants.jpg" alt="Assistants">
 	<img src="images/sunee.jpg" alt="Dr. Sunee">
+	<img src="images/Trophy1.jpg" alt="mastering Itero award">
 </div>
 
 <style>
