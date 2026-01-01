@@ -2,27 +2,27 @@
 	"name": "阿速牙科诊所",
 	"navbar":[
 		{
-			"href": "welcome",
+			"href": "#welcome",
 			"name": "主页"
 		},
 		{
-			"href": "services",
+			"href": "#services",
 			"name": "服务"
 		},
 		{
-			"href": "team",
+			"href": "#team",
 			"name": "牙医"
 		},
 		{
-			"href": "technology",
+			"href": "#technology",
 			"name": "技术"
 		},
 		{
-			"href": "promo",
+			"href": "#promo",
 			"name": "折扣"
 		},
 		{
-			"href": "contact",
+			"href": "#contact",
 			"name": "联系"
 		}
 	],
