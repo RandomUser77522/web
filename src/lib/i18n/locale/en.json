@@ -2,28 +2,36 @@
 	"name": "Asok Montri Dental Clinic",
 	"navbar":[
 		{
-			"href": "welcome",
+			"href": "#welcome",
 			"name": "Home"
 		},
 		{
-			"href": "services",
+			"href": "#services",
 			"name": "Services"
 		},
 		{
-			"href": "team",
+			"href": "reviews",
+			"name": "Testimonies"
+		},
+		{
+			"href": "#team",
 			"name": "Our team"
 		},
 		{
-			"href": "technology",
+			"href": "#technology",
 			"name": "Technology"
 		},
 		{
-			"href": "promo",
+			"href": "#promo",
 			"name": "Special offers"
 		},
 		{
-			"href": "contact",
+			"href": "#contact",
 			"name": "Contact us"
+		},
+		{
+			"href": "blog",
+			"name": "Blog"
 		}
 	],
 	"welcome":{
@@ -434,6 +442,11 @@
 			"img":"./images/reviewer_image_4.png",
 			"name":"Sean Gillanders",
 			"review":"Dr Song and his team are amazing.  I have just had 12 veneers fitted by Dr Song (after a disappointment from a competitive dental surgery).  I was greeted warmly by the receptionist at my initial enquiry, seen the same day with X-rays etc and then all the preliminary work carried out by Dr Song and his assistants efficiently and professionally making me feel every confidence and trust in Dr Song.  My 12 E-Max veneers were then fitted a week later (allow up to 10 days) and they are beyond my expectation.  I am very very happy and thankful to Dr Song and his team for a fabulous job!!  I am now recommending Dr Songs work to everyone considering teeth veneer work."
+		},
+		{
+			"img": "null",
+			"name": "Andy",
+			"review":"My teeth were a complete mess as the result of an early childhood accident that resulted in the early loss of my front teeth - the adult teeth grew in and made a complete mess due to crowding. As a result, I neglected my teeth later in life, coupled by some incompetent front crown work in the US, and wound up with a decayed, broken-toothed, mess. I initially chose this clinic because of its high-tech tools, including the dental CT scanner and 3d modeling from in-mouth high-res scans, as well as for its American-schooled dentists. Dr Song and Dr Sunee took a strategy of saving my natural teeth vs doing a full extraction and half a dozen or more implants and fake bridgework that I was expecting, resulting in only two implants, two extractions, a 4 tooth zirconium bridge that solidly sits on two implants and two natural canines, a few caps, no root canalwork and use of Invisalign to realign the top and bottom teeth from that accident's consequences. Part of my care included fillings, a veneer or two and a couple or so caps, as needed. We also discussed modifying the titanium implants and Dr Song used highly skilled machine shop he works with in Thailand to do those modifications, enabling a look that my anatomy could not get to. I couldn't be more pleased now with the results and highly recommend this clinic to anyone needing complex dentalwork, like I did, for much lower cost (including hotels and airfare) than can be found in The West. I can now enjoy corn on the cob, steak, and green pears and am trying to retrain myself to smile and to use a front bite that I never had. I now have an attractive smile that makes getting first dates almost effortless. They also do cleanings, cavity fills, extractions, implants, caps, veneers, and other general dentistry and care about both the patient and their dental health. But if you need non-general work by dentists with advanced skills, knowledge, and tools, one that care about you vs milking you for money, this is THE place to get it done, imo. The friendly staff at Asok Montri Dental Clinic also makes you look forward to dental visits - how weird is that?"
 		}
 	]
 }
