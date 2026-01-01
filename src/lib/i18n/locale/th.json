@@ -2,27 +2,27 @@
 	"name": "Asok Montri Dental Clinic",
 	"navbar":[
 		{
-			"href": "welcome",
+			"href": "#welcome",
 			"name": "หน้าหลัก"
 		},
 		{
-			"href": "services",
+			"href": "#services",
 			"name": "บริการ"
 		},
 		{
-			"href": "team",
+			"href": "#team",
 			"name": "ทีมทันตแพทย์"
 		},
 		{
-			"href": "technology",
+			"href": "#technology",
 			"name": "เทคโนโลยี"
 		},
 		{
-			"href": "promo",
+			"href": "#promo",
 			"name": "โปรโมชั่น"
 		},
 		{
-			"href": "contact",
+			"href": "#contact",
 			"name": "ติดต่อเรา"
 		}
 	],
